@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring datascientist and software developer in Canada!</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🔭 I’m currently working on **building my interactive resume**
+- 🔭 I’m currently working on **a data project. Coming soon...**
 
 - 🌱 I’m currently learning **AI, Python and Power BI**
 
